@@ -13,5 +13,6 @@
     "psr-4": {
       "Devision\\SomeUsefulModule\\": ""
     }
-  }
+  },
+  "minimum-stability": "stable"
 }
