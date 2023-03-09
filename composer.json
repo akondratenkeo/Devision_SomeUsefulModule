@@ -2,7 +2,7 @@
   "name": "devision/some-useful-module",
   "description": "N/A",
   "type": "magento2-module",
-  "license": "OSL-3.0",
+  "license": "MIT",
   "require": {
     "magento/framework": "103.0.*"
   },
